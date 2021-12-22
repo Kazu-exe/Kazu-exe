@@ -6,5 +6,4 @@
 ---
 
 ## Demander de l'aide
-
 - 📫 Vous pouvez me contacter sur [Discord](https://discord.com/users/438443614247321610).
